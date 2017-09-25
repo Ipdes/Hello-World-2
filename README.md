@@ -2,4 +2,3 @@
 Hello World
 I Artem 
 
-I love sport
